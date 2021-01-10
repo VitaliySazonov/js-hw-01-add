@@ -1,4 +1,4 @@
-# js-hw-02
+# js-hw-01-add
 <article id="m1">
         <h2 class="title">Module 1</h2>
         <ol>
